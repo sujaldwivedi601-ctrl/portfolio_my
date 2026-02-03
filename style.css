@@ -79,6 +79,8 @@ body{
     transition: 4s;
 }
 .About_me:hover {
+        position : relevent;
+        z-index:10;
     left: 20px;
     cursor: pointer;
     width: 400px;
